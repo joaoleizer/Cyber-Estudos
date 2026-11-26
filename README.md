@@ -1,5 +1,6 @@
 # Cyber-Estudos
-Este repositório tem como objetivo a documentação e acompanhamento de meus estudos e migrar para área de cybersegurança
+Este repositório tem como objetivo a documentação e acompanhamento de meus estudos e migrar para área de cybersegurança.
+Base: ADS, Python e automação
 
 Linux:
 - [Comandos básicos](01-linux/comandos-basicos.md)
@@ -14,3 +15,8 @@ Diario:
 
 Labs:
 - [2026-11-26 Wireshark](labs/2026-11-26-wireshark.md)
+
+Status:
+Semana 1: Comandos básicos em linux
+
+Aviso: nenhum dado pessoal ou da empresa neste repositório.

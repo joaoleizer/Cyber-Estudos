@@ -1,16 +1,16 @@
 # Cyber-Estudos
-Este repositório tem como objetivo a documentação e acompanhamento de meus estudos com objetivo de migrar para área de cyber segurança
+Este repositório tem como objetivo a documentação e acompanhamento de meus estudos e migrar para área de cybersegurança
 
-1- Linux:\
-•[01-linux/comandos-basicos.md](01-linux/comandos-basicos.md).\
-•[01-linux/permissoes.md](01-linux/permissoes.md).
+Linux:
+- [Comandos básicos](01-linux/comandos-basicos.md)
+- [Permissões](01-linux/permissoes.md)
 
-2- Redes:\
-•[02-redes/dns-http.md](02-redes/dns-http.md).\
-•[02-redes/ip-mascara-gateway.md](02-redes/ip-mascara-gateway.md).
+Redes:
+- [DNS e HTTP](02-redes/dns-http.md)
+- [IP, máscara e Gatewau](02-redes/ip-mascara-gateway.md)
 
-Diario:\
-•[diario/semana-01.md](diario/semana-01.md).
+Diario:
+- [Semana 1](diario/semana-01.md)
 
-Labs:\
-•[labs/wireshark.md](labs/wireshark.md).
+Labs:
+- [2026-11-26 Wireshark](labs/wireshark.md)

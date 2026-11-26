@@ -13,4 +13,4 @@ Diario:
 - [Semana 1](diario/semana-01.md)
 
 Labs:
-- [2026-11-26 Wireshark](labs/2026-11-26 wireshark.md)
+- [2026-11-26 Wireshark](labs/2026-11-26-wireshark.md)
